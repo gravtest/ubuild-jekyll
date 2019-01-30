@@ -20,8 +20,10 @@ fields:
   - type: text
     name: link
     label: link
+    default: "/"
   - type: text
     name: link_text
     label: Link text
+    default: Home
   config:
     labelField: link_text
