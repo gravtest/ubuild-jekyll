@@ -14,5 +14,8 @@ page_sections:
     underline;">contact us.</span></a>&nbsp;We  offer&nbsp;customized training specific
     to your needs. We also  offer&nbsp;two-day, interactive, hands-on human-centered
     design training  throughout the year.&nbsp;'
+menu:
+  main:
+    weight: 1
 
 ---
